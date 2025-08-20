@@ -1,10 +1,10 @@
-# Reproduction of "Multiplexing 200 modes on a single digital hologram" 
+# Reproduction: "Multiplexing 200 modes on a single digital hologram" 
 
 This repository contains my reproduction of the experiments and results from：
  (Rosales-Guzmán C, Bhebhe N, Mahonisi N, et al. Multiplexing 200 spatial modes with a single hologram[J]. Journal of Optics, 2017, 19(11): 113501.)
 
 ## Contents
-- Implementation of model described in the paper
+- Implementation of the model described in the paper
 - Training scripts
 
 ## Notes
